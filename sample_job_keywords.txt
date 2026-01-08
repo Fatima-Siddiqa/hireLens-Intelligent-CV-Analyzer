@@ -1,0 +1,6 @@
+Job Positions and their mandatory keywords:
+1. "Data Analyst": ["python", "sql", "power bi", "excel"],
+    
+2. "Data Scientist": ["python", "machine learning", "statistics", "numpy"],
+    
+3. "Frontend Developer": ["html", "css", "javascript", "react"]
